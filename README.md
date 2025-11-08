@@ -23,8 +23,7 @@
 
 Senac Santo Amaro
 
-2024 - 2026
-
+2026 - 2031
 
 **Analise e Desenvolvimento de Sistemas**
 
